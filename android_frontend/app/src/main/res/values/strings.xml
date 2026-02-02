@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Earbud Connect</string>
+
+    <string name="nav_devices">Devices</string>
+    <string name="nav_status">Status</string>
+    <string name="nav_controls">Controls</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="devices_title">Pairing &amp; Devices</string>
+    <string name="devices_scan">Scan</string>
+    <string name="devices_stop_scan">Stop</string>
+    <string name="devices_no_devices">No devices found yet.</string>
+    <string name="devices_permissions_needed">Bluetooth permissions are required to scan/connect.</string>
+    <string name="devices_request_permissions">Grant permissions</string>
+    <string name="devices_demo_mode_on">Demo mode is ON (no real Bluetooth).</string>
+
+    <string name="status_title">Battery Status</string>
+    <string name="status_connected_device">Connected device</string>
+    <string name="status_connection_state">Connection state</string>
+    <string name="status_battery_level">Battery level</string>
+    <string name="status_unknown">Unknown</string>
+
+    <string name="controls_title">Controls</string>
+    <string name="controls_volume">Volume</string>
+    <string name="controls_play_pause">Play / Pause</string>
+    <string name="controls_not_supported">Not supported on this device/app context.</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_auto_connect">Auto-connect last device</string>
+    <string name="settings_device_label">Saved device label</string>
+    <string name="settings_device_label_hint">e.g., My Earbuds</string>
+    <string name="settings_notifications">Enable notifications</string>
+    <string name="settings_demo_mode">Demo / Simulated device mode</string>
+    <string name="settings_save">Save</string>
+
+    <string name="common_connect">Connect</string>
+    <string name="common_disconnect">Disconnect</string>
+    <string name="common_reconnect">Reconnect</string>
+    <string name="common_connected">Connected</string>
+    <string name="common_connecting">Connecting</string>
+    <string name="common_disconnected">Disconnected</string>
+    <string name="common_error">Error</string>
+</resources>
